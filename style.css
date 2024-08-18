@@ -1,0 +1,10 @@
+
+.dashboard {
+    width: 1525px;
+    height: 700px;
+}
+
+.carousel-inner img {
+    height: 600px; 
+    object-fit: cover; 
+}
